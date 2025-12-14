@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfilemoncore.a CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o
+/usr/bin/ranlib libfilemoncore.a

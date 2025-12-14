@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=File Integrity Monitor
+Exec=file_integrity_monitor
+Icon=file-integrity-monitor
+Categories=Utility;Security;
+Terminal=false
