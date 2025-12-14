@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/Kurbanov/file
+CMAKE_SOURCE_DIR = /home/Kurbanov/FIM
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/Kurbanov/file/build
+CMAKE_BINARY_DIR = /home/Kurbanov/FIM/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/filemoncore.dir/depend.make
@@ -72,51 +72,51 @@ include CMakeFiles/filemoncore.dir/flags.make
 filemoncore_autogen/timestamp: /usr/lib/qt6/libexec/moc
 filemoncore_autogen/timestamp: /usr/lib/qt6/libexec/uic
 filemoncore_autogen/timestamp: CMakeFiles/filemoncore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target filemoncore"
-	/usr/bin/cmake -E cmake_autogen /home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/Kurbanov/file/build/filemoncore_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target filemoncore"
+	/usr/bin/cmake -E cmake_autogen /home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen.dir/AutogenInfo.json Release
+	/usr/bin/cmake -E touch /home/Kurbanov/FIM/build/filemoncore_autogen/timestamp
 
 CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o: CMakeFiles/filemoncore.dir/flags.make
 CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o: filemoncore_autogen/mocs_compilation.cpp
 CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o: CMakeFiles/filemoncore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o -MF CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o -c /home/Kurbanov/file/build/filemoncore_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o -MF CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.o -c /home/Kurbanov/FIM/build/filemoncore_autogen/mocs_compilation.cpp
 
 CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Kurbanov/file/build/filemoncore_autogen/mocs_compilation.cpp > CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Kurbanov/FIM/build/filemoncore_autogen/mocs_compilation.cpp > CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Kurbanov/file/build/filemoncore_autogen/mocs_compilation.cpp -o CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Kurbanov/FIM/build/filemoncore_autogen/mocs_compilation.cpp -o CMakeFiles/filemoncore.dir/filemoncore_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: CMakeFiles/filemoncore.dir/flags.make
-CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: /home/Kurbanov/file/core/FileIntegrityEngine.cpp
+CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: /home/Kurbanov/FIM/core/FileIntegrityEngine.cpp
 CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: CMakeFiles/filemoncore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o -MF CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o.d -o CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o -c /home/Kurbanov/file/core/FileIntegrityEngine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o -MF CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o.d -o CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o -c /home/Kurbanov/FIM/core/FileIntegrityEngine.cpp
 
 CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Kurbanov/file/core/FileIntegrityEngine.cpp > CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Kurbanov/FIM/core/FileIntegrityEngine.cpp > CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.i
 
 CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Kurbanov/file/core/FileIntegrityEngine.cpp -o CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Kurbanov/FIM/core/FileIntegrityEngine.cpp -o CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.s
 
 CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o: CMakeFiles/filemoncore.dir/flags.make
-CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o: /home/Kurbanov/file/core/FileScanner.cpp
+CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o: /home/Kurbanov/FIM/core/FileScanner.cpp
 CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o: CMakeFiles/filemoncore.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o -MF CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o.d -o CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o -c /home/Kurbanov/file/core/FileScanner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o -MF CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o.d -o CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o -c /home/Kurbanov/FIM/core/FileScanner.cpp
 
 CMakeFiles/filemoncore.dir/core/FileScanner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/filemoncore.dir/core/FileScanner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Kurbanov/file/core/FileScanner.cpp > CMakeFiles/filemoncore.dir/core/FileScanner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Kurbanov/FIM/core/FileScanner.cpp > CMakeFiles/filemoncore.dir/core/FileScanner.cpp.i
 
 CMakeFiles/filemoncore.dir/core/FileScanner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/filemoncore.dir/core/FileScanner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Kurbanov/file/core/FileScanner.cpp -o CMakeFiles/filemoncore.dir/core/FileScanner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Kurbanov/FIM/core/FileScanner.cpp -o CMakeFiles/filemoncore.dir/core/FileScanner.cpp.s
 
 # Object files for target filemoncore
 filemoncore_OBJECTS = \
@@ -132,7 +132,7 @@ libfilemoncore.a: CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o
 libfilemoncore.a: CMakeFiles/filemoncore.dir/core/FileScanner.cpp.o
 libfilemoncore.a: CMakeFiles/filemoncore.dir/build.make
 libfilemoncore.a: CMakeFiles/filemoncore.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libfilemoncore.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libfilemoncore.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/filemoncore.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/filemoncore.dir/link.txt --verbose=$(VERBOSE)
 
@@ -145,6 +145,6 @@ CMakeFiles/filemoncore.dir/clean:
 .PHONY : CMakeFiles/filemoncore.dir/clean
 
 CMakeFiles/filemoncore.dir/depend: filemoncore_autogen/timestamp
-	cd /home/Kurbanov/file/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/file /home/Kurbanov/file /home/Kurbanov/file/build /home/Kurbanov/file/build /home/Kurbanov/file/build/CMakeFiles/filemoncore.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/Kurbanov/FIM/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/FIM /home/Kurbanov/FIM /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build/CMakeFiles/filemoncore.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/filemoncore.dir/depend
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/Kurbanov/file
+CMAKE_SOURCE_DIR = /home/Kurbanov/FIM
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/Kurbanov/file/build
+CMAKE_BINARY_DIR = /home/Kurbanov/FIM/build
 
 # Utility rule file for filemoncore_autogen_timestamp_deps.
 
@@ -82,6 +82,6 @@ CMakeFiles/filemoncore_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/filemoncore_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/filemoncore_autogen_timestamp_deps.dir/depend:
-	cd /home/Kurbanov/file/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/file /home/Kurbanov/file /home/Kurbanov/file/build /home/Kurbanov/file/build /home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/Kurbanov/FIM/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/FIM /home/Kurbanov/FIM /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/filemoncore_autogen_timestamp_deps.dir/depend
 

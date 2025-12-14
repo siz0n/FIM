@@ -1,6 +1,6 @@
 CMakeFiles/file_integrity_monitor.dir/gui/Notifier.cpp.o: \
- /home/Kurbanov/file/gui/Notifier.cpp /usr/include/stdc-predef.h \
- /home/Kurbanov/file/gui/Notifier.h /usr/include/c++/13/memory \
+ /home/Kurbanov/FIM/gui/Notifier.cpp /usr/include/stdc-predef.h \
+ /home/Kurbanov/FIM/gui/Notifier.h /usr/include/c++/13/memory \
  /usr/include/c++/13/bits/memoryfwd.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

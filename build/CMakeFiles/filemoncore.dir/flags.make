@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/Kurbanov/file/build/filemoncore_autogen/include -I/home/Kurbanov/file/core
+CXX_INCLUDES = -I/home/Kurbanov/FIM/build/filemoncore_autogen/include -I/home/Kurbanov/FIM/core
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/Kurbanov/file
+CMAKE_SOURCE_DIR = /home/Kurbanov/FIM
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/Kurbanov/file/build
+CMAKE_BINARY_DIR = /home/Kurbanov/FIM/build
 
 # Utility rule file for file_integrity_monitor_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/file_integrity_monitor_autogen: file_integrity_monitor_autogen/timest
 file_integrity_monitor_autogen/timestamp: /usr/lib/qt6/libexec/moc
 file_integrity_monitor_autogen/timestamp: /usr/lib/qt6/libexec/uic
 file_integrity_monitor_autogen/timestamp: CMakeFiles/file_integrity_monitor_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target file_integrity_monitor"
-	/usr/bin/cmake -E cmake_autogen /home/Kurbanov/file/build/CMakeFiles/file_integrity_monitor_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/Kurbanov/file/build/file_integrity_monitor_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target file_integrity_monitor"
+	/usr/bin/cmake -E cmake_autogen /home/Kurbanov/FIM/build/CMakeFiles/file_integrity_monitor_autogen.dir/AutogenInfo.json Release
+	/usr/bin/cmake -E touch /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/timestamp
 
 file_integrity_monitor_autogen: CMakeFiles/file_integrity_monitor_autogen
 file_integrity_monitor_autogen: file_integrity_monitor_autogen/timestamp
@@ -89,6 +89,6 @@ CMakeFiles/file_integrity_monitor_autogen.dir/clean:
 .PHONY : CMakeFiles/file_integrity_monitor_autogen.dir/clean
 
 CMakeFiles/file_integrity_monitor_autogen.dir/depend:
-	cd /home/Kurbanov/file/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/file /home/Kurbanov/file /home/Kurbanov/file/build /home/Kurbanov/file/build /home/Kurbanov/file/build/CMakeFiles/file_integrity_monitor_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/Kurbanov/FIM/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/FIM /home/Kurbanov/FIM /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build/CMakeFiles/file_integrity_monitor_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/file_integrity_monitor_autogen.dir/depend
 

@@ -1,8 +1,8 @@
-/home/Kurbanov/file/build/CMakeFiles/filemoncore.dir
-/home/Kurbanov/file/build/CMakeFiles/file_integrity_monitor.dir
-/home/Kurbanov/file/build/CMakeFiles/edit_cache.dir
-/home/Kurbanov/file/build/CMakeFiles/rebuild_cache.dir
-/home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen_timestamp_deps.dir
-/home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen.dir
-/home/Kurbanov/file/build/CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir
-/home/Kurbanov/file/build/CMakeFiles/file_integrity_monitor_autogen.dir
+/home/Kurbanov/FIM/build/CMakeFiles/filemoncore.dir
+/home/Kurbanov/FIM/build/CMakeFiles/file_integrity_monitor.dir
+/home/Kurbanov/FIM/build/CMakeFiles/edit_cache.dir
+/home/Kurbanov/FIM/build/CMakeFiles/rebuild_cache.dir
+/home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen_timestamp_deps.dir
+/home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen.dir
+/home/Kurbanov/FIM/build/CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir
+/home/Kurbanov/FIM/build/CMakeFiles/file_integrity_monitor_autogen.dir

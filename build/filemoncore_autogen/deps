@@ -1,11 +1,11 @@
 filemoncore_autogen/timestamp: \
-	/home/Kurbanov/file/CMakeLists.txt \
-	/home/Kurbanov/file/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake \
-	/home/Kurbanov/file/build/CMakeFiles/3.28.3/CMakeSystem.cmake \
-	/home/Kurbanov/file/core/FileIntegrityEngine.cpp \
-	/home/Kurbanov/file/core/FileIntegrityEngine.h \
-	/home/Kurbanov/file/core/FileScanner.cpp \
-	/home/Kurbanov/file/core/FileScanner.h \
+	/home/Kurbanov/FIM/CMakeLists.txt \
+	/home/Kurbanov/FIM/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake \
+	/home/Kurbanov/FIM/build/CMakeFiles/3.28.3/CMakeSystem.cmake \
+	/home/Kurbanov/FIM/core/FileIntegrityEngine.cpp \
+	/home/Kurbanov/FIM/core/FileIntegrityEngine.h \
+	/home/Kurbanov/FIM/core/FileScanner.cpp \
+	/home/Kurbanov/FIM/core/FileScanner.h \
 	/usr/lib/x86_64-linux-gnu/cmake/Qt6/3rdparty/kwin/FindXKB.cmake \
 	/usr/lib/x86_64-linux-gnu/cmake/Qt6/FindWrapAtomic.cmake \
 	/usr/lib/x86_64-linux-gnu/cmake/Qt6/FindWrapOpenGL.cmake \

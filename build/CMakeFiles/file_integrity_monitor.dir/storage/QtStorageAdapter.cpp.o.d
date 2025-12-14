@@ -1,8 +1,7 @@
 CMakeFiles/file_integrity_monitor.dir/storage/QtStorageAdapter.cpp.o: \
- /home/Kurbanov/file/storage/QtStorageAdapter.cpp \
- /usr/include/stdc-predef.h \
- /home/Kurbanov/file/storage/QtStorageAdapter.h \
- /home/Kurbanov/file/storage/DatabaseManager.h \
+ /home/Kurbanov/FIM/storage/QtStorageAdapter.cpp \
+ /usr/include/stdc-predef.h /home/Kurbanov/FIM/storage/QtStorageAdapter.h \
+ /home/Kurbanov/FIM/storage/DatabaseManager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qtsqlglobal.h \
@@ -329,8 +328,8 @@ CMakeFiles/file_integrity_monitor.dir/storage/QtStorageAdapter.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlQuery \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqlquery.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
- /home/Kurbanov/file/core/IStorage.h \
- /home/Kurbanov/file/core/FileMetadata.h \
- /home/Kurbanov/file/core/FileStatus.h \
+ /home/Kurbanov/FIM/core/IStorage.h \
+ /home/Kurbanov/FIM/core/FileMetadata.h \
+ /home/Kurbanov/FIM/core/FileStatus.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDebug \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdebug.h

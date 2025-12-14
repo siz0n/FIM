@@ -1,6 +1,6 @@
 CMakeFiles/file_integrity_monitor.dir/gui/MainWindow.cpp.o: \
- /home/Kurbanov/file/gui/MainWindow.cpp /usr/include/stdc-predef.h \
- /home/Kurbanov/file/gui/MainWindow.h \
+ /home/Kurbanov/FIM/gui/MainWindow.cpp /usr/include/stdc-predef.h \
+ /home/Kurbanov/FIM/gui/MainWindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QAction \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qaction.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtguiglobal.h \
@@ -451,9 +451,9 @@ CMakeFiles/file_integrity_monitor.dir/gui/MainWindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qbasictimer.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QToolBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtoolbar.h \
- /home/Kurbanov/file/core/ScanSummary.h \
- /home/Kurbanov/file/core/FileStatus.h \
- /home/Kurbanov/file/storage/DatabaseManager.h \
+ /home/Kurbanov/FIM/core/ScanSummary.h \
+ /home/Kurbanov/FIM/core/FileStatus.h \
+ /home/Kurbanov/FIM/storage/DatabaseManager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qtsqlglobal.h \
@@ -468,7 +468,7 @@ CMakeFiles/file_integrity_monitor.dir/gui/MainWindow.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlQuery \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqlquery.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
- /home/Kurbanov/file/gui/FileMonitor.h \
+ /home/Kurbanov/FIM/gui/FileMonitor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSet \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qset.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDir \
@@ -498,7 +498,7 @@ CMakeFiles/file_integrity_monitor.dir/gui/MainWindow.cpp.o: \
  /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfileinfo.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdatetime.h \
- /home/Kurbanov/file/gui/ScanWorker.h \
+ /home/Kurbanov/FIM/gui/ScanWorker.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringList \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlist.h \

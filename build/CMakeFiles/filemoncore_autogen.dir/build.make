@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/Kurbanov/file
+CMAKE_SOURCE_DIR = /home/Kurbanov/FIM
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/Kurbanov/file/build
+CMAKE_BINARY_DIR = /home/Kurbanov/FIM/build
 
 # Utility rule file for filemoncore_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/filemoncore_autogen: filemoncore_autogen/timestamp
 filemoncore_autogen/timestamp: /usr/lib/qt6/libexec/moc
 filemoncore_autogen/timestamp: /usr/lib/qt6/libexec/uic
 filemoncore_autogen/timestamp: CMakeFiles/filemoncore_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/Kurbanov/file/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target filemoncore"
-	/usr/bin/cmake -E cmake_autogen /home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/Kurbanov/file/build/filemoncore_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/Kurbanov/FIM/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target filemoncore"
+	/usr/bin/cmake -E cmake_autogen /home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen.dir/AutogenInfo.json Release
+	/usr/bin/cmake -E touch /home/Kurbanov/FIM/build/filemoncore_autogen/timestamp
 
 filemoncore_autogen: CMakeFiles/filemoncore_autogen
 filemoncore_autogen: filemoncore_autogen/timestamp
@@ -89,6 +89,6 @@ CMakeFiles/filemoncore_autogen.dir/clean:
 .PHONY : CMakeFiles/filemoncore_autogen.dir/clean
 
 CMakeFiles/filemoncore_autogen.dir/depend:
-	cd /home/Kurbanov/file/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/file /home/Kurbanov/file /home/Kurbanov/file/build /home/Kurbanov/file/build /home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/Kurbanov/FIM/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/FIM /home/Kurbanov/FIM /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/filemoncore_autogen.dir/depend
 

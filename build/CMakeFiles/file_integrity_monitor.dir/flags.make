@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I/home/Kurbanov/file/build/file_integrity_monitor_autogen/include -I/home/Kurbanov/file/gui -I/home/Kurbanov/file/storage -I/home/Kurbanov/file/core -I/home/Kurbanov/file -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql
+CXX_INCLUDES = -I/home/Kurbanov/FIM/build/file_integrity_monitor_autogen/include -I/home/Kurbanov/FIM/gui -I/home/Kurbanov/FIM/storage -I/home/Kurbanov/FIM/core -I/home/Kurbanov/FIM -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17 -fPIC
 

@@ -250,7 +250,7 @@ void MainWindow::setupUi() {
     m_clearHistoryAction->setToolTip(tr("Очистить таблицу истории сканирований"));
     m_clearHistoryAction->setStatusTip(tr("Очистить таблицу истории сканирований"));
     toolbar->addSeparator();
-    m_faqAction = toolbar->addAction(QIcon::fromTheme("gnome-help-symbolic"), tr("FAQ"));
+    m_faqAction = toolbar->addAction(QIcon::fromTheme("gnome-help-symbolic"), tr("Справка"));
     m_faqAction->setToolTip(tr("Справка"));
     m_faqAction->setStatusTip(tr("Открыть справку"));
 
@@ -563,7 +563,7 @@ void MainWindow::showFaqDialog() {
         "Программа работает локально и не изменяет файлы на диске."
         );
 
-    QMessageBox::information(this, tr("FAQ"), faqText);
+    QMessageBox::information(this, tr("Справка"), faqText);
 }
 void MainWindow::scanOnce() { beginScan(ScanTrigger::Manual); }
 
@@ -1306,7 +1306,12 @@ void MainWindow::setupTrayIcon() {
         return;
     }
 
-    m_trayIcon = new QSystemTrayIcon(QIcon::fromTheme(QStringLiteral("security-medium")), this);
+    QIcon trayIcon = QIcon::fromTheme(QStringLiteral("security-medium"));
+    if (trayIcon.isNull()) {
+        trayIcon = QIcon(":/icons/file-integrity-monitor.png"); // или ":/icons/app.png" если так назвал
+    }
+    m_trayIcon = new QSystemTrayIcon(trayIcon, this);
+
     m_trayIcon->setToolTip(tr("File Integrity Monitor"));
 
     auto *showAction = new QAction(tr("Открыть"), this);

@@ -1,7 +1,7 @@
 CMakeFiles/file_integrity_monitor.dir/file_integrity_monitor_autogen/mocs_compilation.cpp.o: \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/mocs_compilation.cpp \
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/moc_MainWindow.cpp \
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/moc_MainWindow.cpp \
  /usr/include/c++/13/memory /usr/include/c++/13/bits/memoryfwd.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -118,7 +118,7 @@ CMakeFiles/file_integrity_monitor.dir/file_integrity_monitor_autogen/mocs_compil
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h \
  /usr/include/c++/13/pstl/execution_defs.h \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/MainWindow.h \
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/MainWindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QAction \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qaction.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtguiglobal.h \
@@ -457,9 +457,9 @@ CMakeFiles/file_integrity_monitor.dir/file_integrity_monitor_autogen/mocs_compil
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qbasictimer.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QToolBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtoolbar.h \
- /home/Kurbanov/file/core/ScanSummary.h \
- /home/Kurbanov/file/core/FileStatus.h \
- /home/Kurbanov/file/storage/DatabaseManager.h \
+ /home/Kurbanov/FIM/core/ScanSummary.h \
+ /home/Kurbanov/FIM/core/FileStatus.h \
+ /home/Kurbanov/FIM/storage/DatabaseManager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qtsqlglobal.h \
@@ -474,7 +474,7 @@ CMakeFiles/file_integrity_monitor.dir/file_integrity_monitor_autogen/mocs_compil
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlQuery \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqlquery.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/FileMonitor.h \
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/FileMonitor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSet \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qset.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDir \
@@ -504,9 +504,9 @@ CMakeFiles/file_integrity_monitor.dir/file_integrity_monitor_autogen/mocs_compil
  /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfileinfo.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdatetime.h \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/ScanWorker.h \
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/ScanWorker.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringList \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlist.h \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/moc_ScanWorker.cpp \
- /home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/ScanWorker.h
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/moc_ScanWorker.cpp \
+ /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/../../../gui/ScanWorker.h

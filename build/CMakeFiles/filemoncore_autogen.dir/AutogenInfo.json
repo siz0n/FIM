@@ -1,15 +1,15 @@
 {
-	"BUILD_DIR" : "/home/Kurbanov/file/build/filemoncore_autogen",
-	"CMAKE_BINARY_DIR" : "/home/Kurbanov/file/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/Kurbanov/file/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/Kurbanov/file",
+	"BUILD_DIR" : "/home/Kurbanov/FIM/build/filemoncore_autogen",
+	"CMAKE_BINARY_DIR" : "/home/Kurbanov/FIM/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/Kurbanov/FIM/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/Kurbanov/FIM",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/Kurbanov/file/CMakeLists.txt",
+		"/home/Kurbanov/FIM/CMakeLists.txt",
 		"/usr/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeSystem.cmake.in",
-		"/home/Kurbanov/file/build/CMakeFiles/3.28.3/CMakeSystem.cmake",
+		"/home/Kurbanov/FIM/build/CMakeFiles/3.28.3/CMakeSystem.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeUnixFindMake.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake",
@@ -63,7 +63,7 @@
 		"/usr/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake",
 		"/usr/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/Kurbanov/file/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
+		"/home/Kurbanov/FIM/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
@@ -88,7 +88,7 @@
 		"/usr/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/usr/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake",
 		"/usr/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/Kurbanov/file/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
+		"/home/Kurbanov/FIM/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake",
@@ -272,27 +272,27 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlVersionlessTargets.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/Kurbanov/file",
-	"DEP_FILE" : "/home/Kurbanov/file/build/filemoncore_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "/home/Kurbanov/FIM",
+	"DEP_FILE" : "/home/Kurbanov/FIM/build/filemoncore_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "filemoncore_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/Kurbanov/file/core/FileIntegrityEngine.h",
+			"/home/Kurbanov/FIM/core/FileIntegrityEngine.h",
 			"MU",
 			"TAC5DWH4SE/moc_FileIntegrityEngine.cpp",
 			null
 		],
 		[
-			"/home/Kurbanov/file/core/FileScanner.h",
+			"/home/Kurbanov/FIM/core/FileScanner.h",
 			"MU",
 			"TAC5DWH4SE/moc_FileScanner.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/Kurbanov/file/build/filemoncore_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/Kurbanov/file/build/filemoncore_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/Kurbanov/FIM/build/filemoncore_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/Kurbanov/FIM/build/filemoncore_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -303,7 +303,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/Kurbanov/file/core",
+		"/home/Kurbanov/FIM/core",
 		"/usr/include/c++/13",
 		"/usr/include/x86_64-linux-gnu/c++/13",
 		"/usr/include/c++/13/backward",
@@ -324,21 +324,21 @@
 		"-c",
 		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/Kurbanov/file/build/filemoncore_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/Kurbanov/FIM/build/filemoncore_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 4,
-	"SETTINGS_FILE" : "/home/Kurbanov/file/build/CMakeFiles/filemoncore_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/Kurbanov/FIM/build/CMakeFiles/filemoncore_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/Kurbanov/file/core/FileIntegrityEngine.cpp", "MU", null ],
-		[ "/home/Kurbanov/file/core/FileScanner.cpp", "MU", null ]
+		[ "/home/Kurbanov/FIM/core/FileIntegrityEngine.cpp", "MU", null ],
+		[ "/home/Kurbanov/FIM/core/FileScanner.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

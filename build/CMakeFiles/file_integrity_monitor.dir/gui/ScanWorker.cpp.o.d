@@ -1,6 +1,6 @@
 CMakeFiles/file_integrity_monitor.dir/gui/ScanWorker.cpp.o: \
- /home/Kurbanov/file/gui/ScanWorker.cpp /usr/include/stdc-predef.h \
- /home/Kurbanov/file/gui/ScanWorker.h \
+ /home/Kurbanov/FIM/gui/ScanWorker.cpp /usr/include/stdc-predef.h \
+ /home/Kurbanov/FIM/gui/ScanWorker.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobjectdefs.h \
@@ -291,8 +291,8 @@ CMakeFiles/file_integrity_monitor.dir/gui/ScanWorker.cpp.o: \
  /usr/include/c++/13/ratio /usr/include/c++/13/ctime \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringList \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlist.h \
- /home/Kurbanov/file/gui/FileMonitor.h \
- /home/Kurbanov/file/storage/DatabaseManager.h \
+ /home/Kurbanov/FIM/gui/FileMonitor.h \
+ /home/Kurbanov/FIM/storage/DatabaseManager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qtsqlglobal.h \

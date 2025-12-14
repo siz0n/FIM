@@ -1,7 +1,7 @@
-/home/Kurbanov/file/build/file_integrity_monitor_autogen/DMHXEJ42XS/moc_ScanWorker.cpp: /home/Kurbanov/file/gui/ScanWorker.h \
-  /home/Kurbanov/file/build/file_integrity_monitor_autogen/moc_predefs.h \
-  /home/Kurbanov/file/gui/FileMonitor.h \
-  /home/Kurbanov/file/storage/DatabaseManager.h \
+/home/Kurbanov/FIM/build/file_integrity_monitor_autogen/DMHXEJ42XS/moc_ScanWorker.cpp: /home/Kurbanov/FIM/gui/ScanWorker.h \
+  /home/Kurbanov/FIM/build/file_integrity_monitor_autogen/moc_predefs.h \
+  /home/Kurbanov/FIM/gui/FileMonitor.h \
+  /home/Kurbanov/FIM/storage/DatabaseManager.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

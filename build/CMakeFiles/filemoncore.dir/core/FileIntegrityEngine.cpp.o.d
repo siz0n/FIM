@@ -1,8 +1,7 @@
 CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: \
- /home/Kurbanov/file/core/FileIntegrityEngine.cpp \
- /usr/include/stdc-predef.h \
- /home/Kurbanov/file/core/FileIntegrityEngine.h \
- /home/Kurbanov/file/core/Config.h /home/Kurbanov/file/core/FileStatus.h \
+ /home/Kurbanov/FIM/core/FileIntegrityEngine.cpp \
+ /usr/include/stdc-predef.h /home/Kurbanov/FIM/core/FileIntegrityEngine.h \
+ /home/Kurbanov/FIM/core/Config.h /home/Kurbanov/FIM/core/FileStatus.h \
  /usr/include/c++/13/cstdint \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -132,8 +131,8 @@ CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
  /usr/include/c++/13/bits/vector.tcc \
- /home/Kurbanov/file/core/FileScanner.h \
- /home/Kurbanov/file/core/FileMetadata.h /usr/include/c++/13/chrono \
+ /home/Kurbanov/FIM/core/FileScanner.h \
+ /home/Kurbanov/FIM/core/FileMetadata.h /usr/include/c++/13/chrono \
  /usr/include/c++/13/bits/chrono.h /usr/include/c++/13/ratio \
  /usr/include/c++/13/limits /usr/include/c++/13/ctime /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/time.h \
@@ -141,7 +140,7 @@ CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
  /usr/include/c++/13/bits/parse_numbers.h \
- /home/Kurbanov/file/core/IHasher.h /usr/include/c++/13/filesystem \
+ /home/Kurbanov/FIM/core/IHasher.h /usr/include/c++/13/filesystem \
  /usr/include/c++/13/bits/fs_fwd.h /usr/include/c++/13/system_error \
  /usr/include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
  /usr/include/c++/13/stdexcept /usr/include/c++/13/exception \
@@ -191,9 +190,8 @@ CMakeFiles/filemoncore.dir/core/FileIntegrityEngine.cpp.o: \
  /usr/include/c++/13/bits/unique_ptr.h \
  /usr/include/c++/13/ext/aligned_buffer.h \
  /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h \
- /home/Kurbanov/file/core/IStorage.h \
- /home/Kurbanov/file/core/ScanSummary.h /usr/include/c++/13/memory \
- /usr/include/c++/13/bits/stl_tempbuf.h \
+ /home/Kurbanov/FIM/core/IStorage.h /home/Kurbanov/FIM/core/ScanSummary.h \
+ /usr/include/c++/13/memory /usr/include/c++/13/bits/stl_tempbuf.h \
  /usr/include/c++/13/bits/stl_raw_storage_iter.h \
  /usr/include/c++/13/bits/align.h \
  /usr/include/c++/13/bits/shared_ptr_atomic.h \

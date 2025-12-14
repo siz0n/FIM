@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/Kurbanov/file
+CMAKE_SOURCE_DIR = /home/Kurbanov/FIM
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/Kurbanov/file/build
+CMAKE_BINARY_DIR = /home/Kurbanov/FIM/build
 
 # Utility rule file for file_integrity_monitor_autogen_timestamp_deps.
 
@@ -67,11 +67,11 @@ include CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/compiler_de
 include CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/progress.make
 
 CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: libfilemoncore.a
-CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt6Sql.so.6.4.2
-CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2
-CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/qt6/libexec/uic
-CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/qt6/libexec/moc
 CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt6Gui.so.6.4.2
+CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt6Sql.so.6.4.2
+CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/qt6/libexec/uic
+CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2
+CMakeFiles/file_integrity_monitor_autogen_timestamp_deps: /usr/lib/qt6/libexec/moc
 
 file_integrity_monitor_autogen_timestamp_deps: CMakeFiles/file_integrity_monitor_autogen_timestamp_deps
 file_integrity_monitor_autogen_timestamp_deps: CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/build.make
@@ -86,6 +86,6 @@ CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/depend:
-	cd /home/Kurbanov/file/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/file /home/Kurbanov/file /home/Kurbanov/file/build /home/Kurbanov/file/build /home/Kurbanov/file/build/CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/Kurbanov/FIM/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/Kurbanov/FIM /home/Kurbanov/FIM /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build /home/Kurbanov/FIM/build/CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/file_integrity_monitor_autogen_timestamp_deps.dir/depend
 

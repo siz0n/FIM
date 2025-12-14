@@ -1,4 +1,4 @@
-# Install script for directory: /home/Kurbanov/file
+# Install script for directory: /home/Kurbanov/FIM
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/Kurbanov/file/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/Kurbanov/FIM/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,6 +1,6 @@
 CMakeFiles/file_integrity_monitor.dir/gui/QtHasher.cpp.o: \
- /home/Kurbanov/file/gui/QtHasher.cpp /usr/include/stdc-predef.h \
- /home/Kurbanov/file/gui/QtHasher.h /home/Kurbanov/file/core/IHasher.h \
+ /home/Kurbanov/FIM/gui/QtHasher.cpp /usr/include/stdc-predef.h \
+ /home/Kurbanov/FIM/gui/QtHasher.h /home/Kurbanov/FIM/core/IHasher.h \
  /usr/include/c++/13/filesystem \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \

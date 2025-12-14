@@ -1,7 +1,7 @@
 CMakeFiles/file_integrity_monitor.dir/gui/FileMonitor.cpp.o: \
- /home/Kurbanov/file/gui/FileMonitor.cpp /usr/include/stdc-predef.h \
- /home/Kurbanov/file/gui/FileMonitor.h \
- /home/Kurbanov/file/storage/DatabaseManager.h \
+ /home/Kurbanov/FIM/gui/FileMonitor.cpp /usr/include/stdc-predef.h \
+ /home/Kurbanov/FIM/gui/FileMonitor.h \
+ /home/Kurbanov/FIM/storage/DatabaseManager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qtsqlglobal.h \
