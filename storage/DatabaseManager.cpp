@@ -504,8 +504,6 @@ QString DatabaseManager::computeSignature(const FileMetadata &metadata) const {
 }
 
 bool DatabaseManager::verifySignature(const FileRecordEntry &record) const {
-    // If HMAC is not configured, treat signature as implicitly valid to avoid false errors on baseline
-    // scans when no key was provided.
     if (m_hmacKey.isEmpty()) {
         return true;
     }
@@ -546,7 +544,6 @@ bool DatabaseManager::ensureSchemaVersion() {
     }
 
     if (currentVersion < kCurrentSchemaVersion) {
-        // Future migrations would be placed here; currently we only need to bump the version.
         return setSchemaVersion(kCurrentSchemaVersion);
     }
 
