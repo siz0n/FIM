@@ -22,7 +22,6 @@ bool FileScanner::isExcluded(const std::filesystem::path &path) const {
             }
             break;
         case ExcludeType::Glob:
-            // simple glob: support prefix/suffix with '*'
             if (!rule.pattern.empty()) {
                 const auto &p = rule.pattern;
                 if (p.front() == '*' && p.back() == '*') {
