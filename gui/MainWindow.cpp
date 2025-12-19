@@ -1308,7 +1308,7 @@ void MainWindow::setupTrayIcon() {
 
     QIcon trayIcon = QIcon::fromTheme(QStringLiteral("security-medium"));
     if (trayIcon.isNull()) {
-        trayIcon = QIcon(":/icons/file-integrity-monitor.png"); // или ":/icons/app.png" если так назвал
+        trayIcon = QIcon(":/icons/file-integrity-monitor.png"); 
     }
     m_trayIcon = new QSystemTrayIcon(trayIcon, this);
 
